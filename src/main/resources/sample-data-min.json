@@ -1,0 +1,196 @@
+{
+  "trafficMeasurements": [
+    {
+      "measurementTime": 86544,
+      "measurements": [
+        {
+          "startAvenue": "A",
+          "startStreet": "1",
+          "transitTime": 28.000987663134676,
+          "endAvenue": "B",
+          "endStreet": "1"
+        },
+        {
+          "startAvenue": "A",
+          "startStreet": "2",
+          "transitTime": 59.71131185379898,
+          "endAvenue": "A",
+          "endStreet": "1"
+        },
+        {
+          "startAvenue": "A",
+          "startStreet": "2",
+          "transitTime": 50.605942255619624,
+          "endAvenue": "B",
+          "endStreet": "2"
+        },
+        {
+          "startAvenue": "B",
+          "startStreet": "26",
+          "transitTime": 56.03802315699134,
+          "endAvenue": "C",
+          "endStreet": "26"
+        },
+        {
+          "startAvenue": "B",
+          "startStreet": "27",
+          "transitTime": 44.89402677715715,
+          "endAvenue": "B",
+          "endStreet": "26"
+        },
+        {
+          "startAvenue": "B",
+          "startStreet": "27",
+          "transitTime": 53.309319630666096,
+          "endAvenue": "A",
+          "endStreet": "27"
+        },
+        {
+          "startAvenue": "B",
+          "startStreet": "28",
+          "transitTime": 17.667011202993177,
+          "endAvenue": "B",
+          "endStreet": "27"
+        },
+        {
+          "startAvenue": "B",
+          "startStreet": "28",
+          "transitTime": 54.5069902579889,
+          "endAvenue": "C",
+          "endStreet": "28"
+        },
+        {
+          "startAvenue": "F",
+          "startStreet": "2",
+          "transitTime": 14.605645139711031,
+          "endAvenue": "G",
+          "endStreet": "2"
+        },
+        {
+          "startAvenue": "F",
+          "startStreet": "3",
+          "transitTime": 18.974394781728805,
+          "endAvenue": "F",
+          "endStreet": "4"
+        }
+      ]
+    },
+    {
+      "measurementTime": 86575,
+      "measurements": [
+        {
+          "startAvenue": "A",
+          "startStreet": "1",
+          "transitTime": 33.72479069303155,
+          "endAvenue": "B",
+          "endStreet": "1"
+        },
+        {
+          "startAvenue": "A",
+          "startStreet": "2",
+          "transitTime": 56.23494269309719,
+          "endAvenue": "A",
+          "endStreet": "1"
+        },
+        {
+          "startAvenue": "A",
+          "startStreet": "2",
+          "transitTime": 48.084859707872376,
+          "endAvenue": "B",
+          "endStreet": "2"
+        },
+        {
+          "startAvenue": "A",
+          "startStreet": "3",
+          "transitTime": 37.59741159926925,
+          "endAvenue": "A",
+          "endStreet": "2"
+        },
+        {
+          "startAvenue": "A",
+          "startStreet": "3",
+          "transitTime": 58.66052905912127,
+          "endAvenue": "B",
+          "endStreet": "3"
+        },
+        {
+          "startAvenue": "A",
+          "startStreet": "4",
+          "transitTime": 44.866746973624906,
+          "endAvenue": "A",
+          "endStreet": "3"
+        },
+        {
+          "startAvenue": "B",
+          "startStreet": "29",
+          "transitTime": 16.408860723210925,
+          "endAvenue": "A",
+          "endStreet": "29"
+        },
+        {
+          "startAvenue": "B",
+          "startStreet": "30",
+          "transitTime": 36.769389409595426,
+          "endAvenue": "B",
+          "endStreet": "29"
+        },
+        {
+          "startAvenue": "B",
+          "startStreet": "30",
+          "transitTime": 22.315713773065866,
+          "endAvenue": "A",
+          "endStreet": "30"
+        },
+        {
+          "startAvenue": "C",
+          "startStreet": "1",
+          "transitTime": 50.13308153615728,
+          "endAvenue": "D",
+          "endStreet": "1"
+        },
+        {
+          "startAvenue": "C",
+          "startStreet": "2",
+          "transitTime": 31.577884576148058,
+          "endAvenue": "C",
+          "endStreet": "1"
+        },
+        {
+          "startAvenue": "C",
+          "startStreet": "2",
+          "transitTime": 35.25528023494865,
+          "endAvenue": "D",
+          "endStreet": "2"
+        },
+        {
+          "startAvenue": "C",
+          "startStreet": "3",
+          "transitTime": 12.987476718023222,
+          "endAvenue": "C",
+          "endStreet": "2"
+        },
+        {
+          "startAvenue": "C",
+          "startStreet": "3",
+          "transitTime": 36.18672427915021,
+          "endAvenue": "D",
+          "endStreet": "3"
+        },
+        {
+          "startAvenue": "C",
+          "startStreet": "4",
+          "transitTime": 41.60926068107324,
+          "endAvenue": "C",
+          "endStreet": "3"
+        },
+        {
+          "startAvenue": "C",
+          "startStreet": "4",
+          "transitTime": 16.82274317812937,
+          "endAvenue": "D",
+          "endStreet": "4"
+        }
+      ]
+    }
+  ]
+}

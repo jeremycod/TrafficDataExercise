@@ -1,0 +1,111 @@
+{
+  "trafficMeasurements": [
+    {
+      "measurementTime": 86544,
+      "measurements": [
+        {
+          "startAvenue": "A",
+          "startStreet": "1",
+          "transitTime": 10,
+          "endAvenue": "B",
+          "endStreet": "1"
+        },
+        {
+          "startAvenue": "A",
+          "startStreet": "1",
+          "transitTime": 3,
+          "endAvenue": "C",
+          "endStreet": "1"
+        },
+        {
+          "startAvenue": "A",
+          "startStreet": "1",
+          "transitTime": 8,
+          "endAvenue": "D",
+          "endStreet": "1"
+        },
+        {
+          "startAvenue": "B",
+          "startStreet": "1",
+          "transitTime": 8,
+          "endAvenue": "C",
+          "endStreet": "1"
+        },
+        {
+          "startAvenue": "B",
+          "startStreet": "1",
+          "transitTime": 6,
+          "endAvenue": "E",
+          "endStreet": "1"
+        },
+        {
+          "startAvenue": "C",
+          "startStreet": "1",
+          "transitTime": 9,
+          "endAvenue": "F",
+          "endStreet": "1"
+        },
+        {
+          "startAvenue": "C",
+          "startStreet": "1",
+          "transitTime": 4,
+          "endAvenue": "D",
+          "endStreet": "1"
+        },
+        {
+          "startAvenue": "C",
+          "startStreet": "1",
+          "transitTime": 9,
+          "endAvenue": "F",
+          "endStreet": "1"
+        },
+        {
+          "startAvenue": "D",
+          "startStreet": "1",
+          "transitTime": 7,
+          "endAvenue": "G",
+          "endStreet": "1"
+        },
+        {
+          "startAvenue": "E",
+          "startStreet": "1",
+          "transitTime": 3,
+          "endAvenue": "F",
+          "endStreet": "1"
+        }
+      ,
+        {
+          "startAvenue": "F",
+          "startStreet": "1",
+          "transitTime": 1,
+          "endAvenue": "G",
+          "endStreet": "1"
+        },
+        {
+          "startAvenue": "E",
+          "startStreet": "1",
+          "transitTime": 11,
+          "endAvenue": "H",
+          "endStreet": "1"
+        }
+      ,
+        {
+          "startAvenue": "F",
+          "startStreet": "1",
+          "transitTime": 8,
+          "endAvenue": "H",
+          "endStreet": "1"
+        }
+      ,
+        {
+          "startAvenue": "G",
+          "startStreet": "1",
+          "transitTime": 5,
+          "endAvenue": "H",
+          "endStreet": "1"
+        }
+      ]
+    }
+
+  ]
+}
